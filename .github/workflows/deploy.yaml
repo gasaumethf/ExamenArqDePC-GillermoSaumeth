@@ -27,3 +27,4 @@ jobs:
           aws cloudformation deploy \
           --template-file template/ec2.yaml \
           --stack-name examen-gillermos
+          
